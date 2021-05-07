@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBLTemplate", "PBLTemplate.csproj", "{BE318BD5-3A1D-495D-8604-78DD82B52C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE318BD5-3A1D-495D-8604-78DD82B52C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE318BD5-3A1D-495D-8604-78DD82B52C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE318BD5-3A1D-495D-8604-78DD82B52C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE318BD5-3A1D-495D-8604-78DD82B52C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90B791E2-91AB-43F2-BF13-D6D6A040D2F1}
+	EndGlobalSection
+EndGlobal
